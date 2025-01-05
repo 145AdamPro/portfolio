@@ -13,7 +13,7 @@ const projects = [
   },
   {
     title: 'EasyAI Trainer',
-    description: 'A comprehensive platform for training and fine-tuning AI models with an intuitive interface and powerful features.',
+    description: 'A rule-based decision system with configurable conditions, NOT REAL JUST FOR FUN!',
     image: 'https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&q=80&w=1200',
     link: 'https://github.com/145AdamPro/easyaitrainer',
     icon: Code2,

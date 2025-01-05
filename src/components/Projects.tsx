@@ -12,12 +12,12 @@ const projects = [
     tags: ['Browser Extension', 'AI', 'JavaScript']
   },
   {
-    title: 'Learn Code Platform',
-    description: 'An interactive platform teaching coding fundamentals through hands-on exercises and real-world projects.',
-    image: 'https://images.unsplash.com/photo-1516116216624-53e697fedbea?auto=format&fit=crop&q=80&w=1200',
-    link: 'https://learn-code-inky.vercel.app',
+    title: 'EasyAI Trainer',
+    description: 'A comprehensive platform for training and fine-tuning AI models with an intuitive interface and powerful features.',
+    image: 'https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&q=80&w=1200',
+    link: 'https://github.com/145AdamPro/easyaitrainer',
     icon: Code2,
-    tags: ['Education', 'React', 'Next.js']
+    tags: ['Machine Learning', 'Python', 'AI Training']
   },
   {
     title: 'AI Voice Assistant',

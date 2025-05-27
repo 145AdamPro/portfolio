@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArrowUpRight, MessageSquare, Code2, Mic } from 'lucide-react';
+import { ArrowUpRight, MessageSquare, Code2, Mic, Eye, Brain } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const projects = [
@@ -26,7 +26,23 @@ const projects = [
     link: 'https://github.com/145AdamPro/aivoice',
     icon: Mic,
     tags: ['AI', 'Voice Recognition', 'Python']
-  }
+  },
+  {
+    title: 'Face Analyzer',
+    description: 'A facial analysis tool for detecting and interpreting facial features and expressions.',
+    image: 'https://images.unsplash.com/photo-1520813792240-56fc4a3765a7?auto=format&fit=crop&q=80&w=1200',
+    link: 'https://github.com/145AdamPro/face_analyzer',
+    icon: Eye,
+    tags: ['Computer Vision', 'Facial Recognition', 'Python']
+  },
+  {
+    title: 'Agentic',
+    description: 'A collection of modular AI tools and utilities designed to support agent-based workflows and experimentation.',
+    image: 'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&q=80&w=1200',
+    link: 'https://github.com/145AdamPro/Agentic',
+    icon: Brain,
+    tags: ['AI Tools', 'Modular Design', 'Python']
+  }  
 ];
 
 export function Projects() {
